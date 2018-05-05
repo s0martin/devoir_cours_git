@@ -3,7 +3,7 @@ Cours OpenClassRoom: Gérez votre code avec Git et GitHub
 Ceci est le repository git de S.Martin pour le cours git
 sur OpenClassRoom.
 
-Le but de ce devoir est d'exercer les fonctionalité de git sur
+Le but de ce devoir est d'exercer les fonctionalités de git sur
 les repos locals et remotes.
 
 Pour exercer ces fonctionalités, une recette de gauffres sera présentée
